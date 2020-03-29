@@ -14,6 +14,7 @@ As I decide on snippets to add to my page, I will showcase them here.
 Python Function to Make API Call for Weather Data
 from api.OpenWeatherMap.org
 
+```python
 # Make api call to return weather data
 def get_weather():
     global complete_url
