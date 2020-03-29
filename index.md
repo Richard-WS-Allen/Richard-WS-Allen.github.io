@@ -1,41 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Richard-WS-Allen/Richard-WS-Allen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will periodically update this page with new projects to showcase my abilities to work with various technologies, databases, data structures, and algorithms.
 
 ## About Me
 
 I'm a Computer Science student, in my capstone course, at Southern New Hampshire University. I am focusing my efforts to transitioning into a Software Engineering position when I transition out of the Navy in August.
 
-### Markdown
+### Code Snippets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As I decide on snippets to add to my page, I will showcase them here.
 
 ```markdown
-Syntax highlighted code block
+Python Function to Make API Call for Weather Data
+from api.OpenWeatherMap.org
 
-# Header 1
-## Header 2
-### Header 3
+# Make api call to return weather data
+def get_weather():
+    global complete_url
+    
+    response = requests.get(complete_url) # GET request
 
-- Bulleted
-- List
+    weather_data = response.json() # Json object of response
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    if weather_data["cod"] != "404":
+        temperature = to_farenheit(weather_data["main"]["temp"]) # api response in kelvin
+        weather_description = weather_data["weather"][0]["description"]
+	    humidity = weather_data["main"]["humidity"]
+		
+	else:
+		temperature = False
+		weather_description = False
+		humidity = False
+        
+    return temperature, weather_description, humidity
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Richard-WS-Allen/Richard-WS-Allen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
