@@ -8,10 +8,6 @@ I'm a Computer Science student, in my capstone course, at Southern New Hampshire
 
 ## Code Review
 
-```
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/fLzVqjFB0ks "Code Review")
-```
-
 ### Code Snippets
 
 As I decide on snippets to add to my page, I will showcase them here.
