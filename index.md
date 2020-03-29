@@ -10,9 +10,7 @@ I'm a Computer Science student, in my capstone course, at Southern New Hampshire
 
 As I decide on snippets to add to my page, I will showcase them here.
 
-```markdown
-Python Function to Make API Call for Weather Data
-from api.OpenWeatherMap.org
+###Python Function to Make API Call for Weather Data
 
 ```python
 # Make api call to return weather data
