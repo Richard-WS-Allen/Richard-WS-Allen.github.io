@@ -7,6 +7,7 @@ I will periodically update this page with new projects to showcase my abilities 
 I'm a Computer Science student, in my capstone course, at Southern New Hampshire University. I am focusing my efforts to transitioning into a Software Engineering position when I transition out of the Navy in August.
 
 ## Code Review
+[YouTube video](https://www.youtube.com/watch?v=VkhiAthh_xE&t=3s) of a code review that I performed on one of my projects.
 
 ### Code Snippets
 
