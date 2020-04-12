@@ -33,7 +33,7 @@ The objectives I planned to meet for this course was to improve on the existing 
 #### Lessons Learned
 In performing my modifications and enhancing the artifacts, I learned about tries and about their inefficiencies. These are data structures that have a very narrow usefulness. I would not be surprised if I never use them again. They’re difficult to work with and waste a lot of memory on null pointers. They only have a very few useful situations, such as autocomplete for text fields. I found this interesting in my research for this artifact, some companies like Google use these structures to speed up their suggestions for text fields. I also learned about ternary search trees, which was my original plan for this artifact. They kind of mesh tries and BSTs. They allow storing data in the nodes and limit it to three children nodes. This would have taken much more time to implement, so I settled on adding the trie functionality.
 
-### [C# CRUD Operations on MongoDB Golf Course Collection] (https://github.com/Richard-WS-Allen/MongoDB-CRUD-Csharp)
+### [C# CRUD Operations on MongoDB Golf Course Collection](https://github.com/Richard-WS-Allen/MongoDB-CRUD-Csharp)
 #### Artifact
 The artifact I worked with this week was a MongoDB CRUD API in Python. It was working with an established NoSQL database, that we had wrote code to perform the CRUD operations on, in a limited scope. This was from my CS-340 class, last semester (Jan-Feb 2020).
 #### Inclusion
