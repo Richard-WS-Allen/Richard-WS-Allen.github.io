@@ -22,4 +22,4 @@ I chose this artifact because NoSQL databases are one of the emerging trends tha
 
 ## Side Projects
 
-### Alternate Ecobee Thermostat (work in progress)
+### [Alternate Ecobee Thermostat (work in progress)](https://github.com/Richard-WS-Allen/EcobeeThermostat)
