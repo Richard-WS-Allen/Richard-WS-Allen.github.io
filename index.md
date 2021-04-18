@@ -5,7 +5,7 @@ I will periodically update this page with new projects to showcase my abilities 
 ## About Me
 When I made the decision to transition out of the Navy nuclear program after eleven years, I decided to get a degree while I was on my last shore duty and learn something new. I love learning new things, which drew me to computer science. I was unfamiliar with the field but I could see it was constantly changing and growing. I had to be a part of it. I ended up graduating _cumma sum laude_ with a B.S. in Computer Science. I learned a lot throuhghout the program but most importantly realized I would never stop learning as long as I stay in the field. I couldn't be happier, knowing this. I have an insatiable thirst to continue learning new things or improving my understanding of technologies.
 
-Currently I work as a software engineer with Boeing in Jacksonville, FL. I mostly program in C++ and am firstly interested in diving deeper into this language and using it to explore new side projects in robotics, machine learning, and IoT. My first project (besides school projects already posted) I plan on working on is an secondary Ecobee thermostat. I will post a link to the Git repo and periodic updates. My Github will also feature my continuous learning path and documentation on courses I take through Coursera, or similar platforms.
+Currently I work as a software engineer with Boeing in Jacksonville, FL. I mostly program in C++ and am firstly interested in diving deeper into this language and using it to explore new side projects in robotics, machine learning, and IoT. My first project (besides school projects already posted) I plan on working on is an secondary Ecobee thermostat. I will post a link to the Git repo and periodic updates. My Github will also feature my continuous learning path and documentation on courses I take through Udemy, or similar platforms.
 
 ## School Projects
 
@@ -26,4 +26,4 @@ I chose this artifact because NoSQL databases are one of the emerging trends tha
 
 ## Continuous Learning
 
-### [C++](https://github.com/Richard-WS-Allen/Udemy-Cpp-Course)
+### [C++ Udemy Course](https://github.com/Richard-WS-Allen/Udemy-Cpp-Course)
