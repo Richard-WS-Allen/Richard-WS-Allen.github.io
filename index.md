@@ -1,15 +1,17 @@
 ## Welcome to My GitHub Page
 
-I will periodically update this page with new projects to showcase my abilities to work with various technologies, databases, data structures, and algorithms.
-
 ## About Me
-When I made the decision to transition out of the Navy nuclear program after eleven years, I decided to get a degree while I was on my last shore duty and learn something new. I love learning new things, which drew me to computer science. I was unfamiliar with the field but I could see it was constantly changing and growing. I had to be a part of it. I ended up graduating _cumma sum laude_ with a B.S. in Computer Science. I learned a lot throuhghout the program but most importantly realized I would never stop learning as long as I stay in the field. I couldn't be happier, knowing this. I have an insatiable thirst to continue learning new things or improving my understanding of technologies.
 
-Recently I worked as a software engineer with Boeing in Jacksonville, FL. Where I mostly programmed in C++ and am interested in diving deeper into this language and using it to explore new side projects in robotics, machine learning, and IoT.
+When I made the decision to leave the U.S. Navy nuclear program after eleven years, I decided to get a degree while I was on my last shore duty and learn something new. I love learning new things, which drew me to computer science. I was unfamiliar with the field but I could see it was constantly changing and growing. Which is why I felt a need to be a part of it.
 
-I now work as a Simulation Consultant, for MOSIMTEC LLC. In this role I wear a lot of different hats, which really satisfies my curiousity in learning new topics. I create simulation models for clients to help answer business questions that would otherwise require experimentation with real life systems. In this role I mostly code in Java, within Anylogic simulation software.
+After graduating with a B.S. in Computer Science, I accepted a position with Boeing as a Software Engineer on their Virtual Maintenance Trainer team. This was a fun and exciting project, building what was essentially a video game being used to train technicians how to perform maintenance on various aircrafts. My previous experience as a nuclear operator played a much larger role in my successes with Boeing than I originally thought it would. While this experience did not help me write better code, it did help me in performing thorough code reviews, and understanding how the aircrafts electrical, mechanical, and hydraulic systems would behave in the real world, which I could translate into the code to make the virtual aircraft behave similarly.
+
+I now work as a Simulation Consultant, for MOSIMTEC LLC. In this role I wear a lot of different hats, which helps to satisfy my curiousity in learning new topics. I create simulation models for clients to help answer business questions that would otherwise require experimentation with real life systems. In this role I mostly code in Java, within Anylogic simulation software, and provide data analysis using data exported from the simulation models I build.
 
 ## Continuous Learning
 
 ### [C++ Udemy Course](https://github.com/Richard-WS-Allen/Udemy-Cpp-Course)
-I chose to start going through this course during my year at Boeing. I was working with C++ a lot, and enjoyed working with this language. However, I knew there was a lot more to learn about C++ than what I was currently working on. Going through this course has been teaching me a lot, while also providing a great refresher on what I already knew. This course has also showed me how little I really knew about C++, especially around memory management and proper use of pointers. I am still working through this course, even though most of my time at work is spent coding in Java.
+
+In this repository (linked above) I have been adding the section challenges as I complete them and writing about what I learned in each one. I did take a break from this while transitioning jobs, but have recently started back with it. I'm happy I chose to go back to this course, as I'm really learning a lot about C++. I originally decided to start this course during my year at Boeing, while I was working mostly with C++ and enjoyed working with this language. However, I knew there was a lot more to learn than what I was currently working on.
+
+In conjuction with this course I'm also reading through *The C++ Programming Language Fourth Edition* by Bjarne Stroustrup and *Parallel and Distributed Programming Using C++* by Cameron and Tracey Hughes, to further my understanding of the language and all its quirks.
